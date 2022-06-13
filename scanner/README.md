@@ -1,0 +1,1 @@
+Для работы модуля необходим [sqlmap](https://github.com/sqlmapproject/sqlmap)
